@@ -7,4 +7,8 @@ We (as a team of 3) designed this Android app from scratch in Summer 2016 within
 
 # Main Map
 This part of the app allows you to navigate around an area you don’t know and visit locations that are nearby. It also alerts you when you reach the location you’re looking for.
-![main map](image/image1.png =250x)
+![main map](image/image1.png)
+
+* Whole app relies on three .csv files containing Names, Latitudes, and Longitudes of locations.
+* They are created (if they do not exist) and parsed to plot markers in this activity.
+* The distances between your location and the checkpoints are calculated every time your location is updated, and if it is less than 30m, the marker is removed, and the entry is deleted from the list.
