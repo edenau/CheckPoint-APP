@@ -1,5 +1,5 @@
 # CheckPoint - An Android Application
-Arnold, Matthew, and I designed this Android app from scratch in Summer 2016 within 4 days.
+Arnold, Matthew, and I designed this simple Android app from scratch in Summer 2016 within 4 days.
 
 # Concept
 * This app is designed so that you can explore a city or an area.
