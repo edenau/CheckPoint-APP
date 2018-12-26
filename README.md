@@ -1,6 +1,6 @@
 # CheckPoint - An Android Application
 
-***Interested Reader is referred the relevant page on my [personal webpage](https://edenau.github.io/checkpoint/).***
+***Interested Reader is referred to the relevant page on my [personal webpage](https://edenau.github.io/checkpoint/).***
 
 Arnold, Matthew, and I designed this simple Android app from scratch in Summer 2016 within 4 days.
 
